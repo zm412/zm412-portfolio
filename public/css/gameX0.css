@@ -1,0 +1,10 @@
+
+.tblGameX0{
+		border: 2px solid black;
+		border-collapse: collapse;
+		position: absolute; 
+			top: 30%; 
+			left: 35%; 
+			width: 25%; 
+			height: 25%; 
+	}

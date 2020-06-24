@@ -25,7 +25,7 @@ function startProcess(){
     let arr = [0,...flat];
     createTblSpiral(tblSpiral, cols);
     let inners = createInners(cols);
-    let tds1 = document.querySelectorAll('td');
+    let tds1 = document.querySelectorAll('.spiralTd');
     putTogetherSpiral(tds1, arr, inners);
   });
   
